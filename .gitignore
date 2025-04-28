@@ -23,3 +23,11 @@ go.work.sum
 
 # env file
 .env
+
+.idea
+.vscode/
+
+
+/build/bin/
+/frontend/dist/
+/frontend/node_modules/
