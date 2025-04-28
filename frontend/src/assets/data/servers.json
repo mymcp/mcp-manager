@@ -32535,7 +32535,7 @@
       "STRIPE_SECRET_KEY": {
         "description": "Your Stripe secret API key required for authenticating requests to the Stripe API.",
         "required": true,
-        "example": "sk_test_4eC39HqLyjWDarjtT1zdp7dc"
+        "example": "testsk_test_4eC39HqLyjWDarjtT1zdp7dc"
       }
     },
     "tools": [
